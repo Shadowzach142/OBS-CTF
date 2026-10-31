@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fbe66b6f62e08a72",
+        "id": "867ae57b94e2cbb1",
         "type": "tabs",
         "children": [
           {
-            "id": "2a17708463e42be5",
+            "id": "e99f69db350d6198",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Web/Directories.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Directories"
             }
           }
         ]
@@ -75,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,19 +188,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a17708463e42be5",
+  "active": "e99f69db350d6198",
   "lastOpenFiles": [
+    "Web/X-DEV.md",
+    "Web/Directories.md",
+    "Web",
+    "Checklists/Web Directories.md",
+    "Checklists/Forensics - Image Stego Checklist.md",
+    "Checklists/Forensics - PCAP Traffic Checklist.md",
+    "Intro CTF Notes.md",
+    "Challenge Writeups",
+    "Payloads & Tricks",
+    "Tools & One-Liners",
+    "Checklists",
+    "README.md",
     "Untitled.base",
     "Untitled.canvas",
     "2026-10-30.md",
     "Untitled 1.canvas",
-    "Intro CTF Notes.md",
     "Untitled 1.base",
     "Web/Directory Maxxing",
     "Crypto/OPENSSL",
     "Web/SQL Injections",
-    "Crypto",
-    "Web",
     "2026-08-25.md",
     "create a link.md",
     "Welcome.md",
